@@ -6,6 +6,21 @@ So for this we applicate I would like to make an application that will help me p
 
 ####This application can include--
 
-1. Picking a date in the future and finding locations on that date with ideal temperatures.
+- [ ] Picking a date in the future and finding locations on that date with ideal temperatures.
+- [ ] Pulling places of interests in that location so you can plan out this date.
+- [ ] User logins.
+- [ ] Storing of dates.
+- [ ] Rating of dates.
+- [ ] Possible reccomendations of high rated dates?
+- [ ] Get user location.
 
-2. Pulling places of interests in that location so you can plan out this date.
+### Project Technologies/Techniques
+
+### Design
+
+* [Screen 1](Images/Screen1.jpg)
+* [Screen Option 1](Images/ScreenOption1.jpg)
+* [Screen Option 2](Images/ScreenOption2.jpg)
+
+### [Project Plan](ProjectPlan.md)
+### [Development Journal](timeLog.md)
