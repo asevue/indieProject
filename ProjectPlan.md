@@ -21,7 +21,9 @@
 - [ ] Prepare for week 5
 
 ### Week 5
-- [ ] 
+- [ ] Watch week 5 videos for java ent class.
+- [ ] Document what I should and could implement into my indie project.
+- [ ] Add to my project plan what I can do for my project this week.
 
 ### Week 6
 
