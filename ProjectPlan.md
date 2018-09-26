@@ -21,29 +21,33 @@
 - [ ] Prepare for week 5
 
 ### Week 5
-- [ ] Watch week 5 videos for java ent class.
-- [ ] Document what I should and could implement into my indie project.
-- [ ] Add to my project plan what I can do for my project this week.
+- [ ] Weekly journal
+- [ ] Create the template for all jsps using bootstrap.
+- [ ] Add user table.
+- [ ] add the user entity
+- [ ] add jsp to go to user profile
+- [ ] add jsp to add user.
 
 ### Week 6
-
+- [ ] Weekly journal
+- [ ] Create db on AWS
 ### Week 7
-
+- [ ] Weekly journal
 ### Week 8
-
+- [ ] Weekly journal
 ### Week 9
-
+- [ ] Weekly journal
 ### Week10
-
+- [ ] Weekly journal
 ### Week 11
-
+- [ ] Weekly journal
 ### Week 12
-
+- [ ] Weekly journal
 ### Week 13
-
+- [ ] Weekly journal
 ### Week 14
-
+- [ ] Weekly journal
 ### Week 15
-
+- [ ] Weekly journal
 ### Week 16
-
+- [ ] Weekly journal
