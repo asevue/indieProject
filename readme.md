@@ -16,11 +16,9 @@ So for this we applicate I would like to make an application that will help me p
 
 ### Project Technologies/Techniques
 
-### Design
+### Design/Flow
 
-* [Screen 1](Images/Screen1.jpg)
-* [Screen Option 1](Images/ScreenOption1.jpg)
-* [Screen Option 2](Images/ScreenOption2.jpg)
+* [Sample Image](Images/ScreenDesignFlow.jpg)
 
 ### [Project Plan](ProjectPlan.md)
 ### [Development Journal](timeLog.md)
