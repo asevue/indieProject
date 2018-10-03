@@ -27,3 +27,13 @@ Week 3
 9/25/2018 11:30pm - 3:12am
 
 Watched videos on week 3, worked on exercise 3, finished up exercise 3 and turned in. Working on checkpoint 1 for individual project.
+
+week 4
+--
+10/2/2018 10:30pm - 4:00am
+
+Watching week 4 videos, learning about hibernate and going to work the demos then exercise.
+
+Learned how to implement hibernate and the nature of hibernate, what and how to use this particular piece of it. 
+
+Finished week 4 exercise 6:15am learned alot about hibernate and the little things needed to make it work. I feel confident enough to implement it though i'm still unsure of how to properly make a test database.
